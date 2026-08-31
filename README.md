@@ -46,164 +46,41 @@ Kan bruges af frivillige eller børn, som har brug for hjælp.
 
 ---
 
-# Spillene
+## Spillene
 
-## 01 - Fang Stjernen
-
-Lær om:
-
-- sprites
-- bevægelse
-- koordinater
-- events
+###  01 - Fang Stjernen
 
 Byg videre på et spil, hvor en figur skal samle stjerner.
 
 ---
 
-## 02 - Undgå Monsteret
-
-Lær om:
-
-- variabler
-- liv
-- score
-- kollisioner
+### 02 - Undgå Monsteret
 
 Overlev så længe som muligt uden at blive ramt.
 
 ---
 
-## 03 - Labyrinten
-
-Lær om:
-
-- baner
-- farvekollision
-- start- og målområder
+### 03 - Labyrinten
 
 Find vej gennem forskellige labyrinter.
 
 ---
 
-## 04 - Klik-spillet
-
-Lær om:
-
-- timer
-- tilfældighed
-- point
+### 04 - Klik-spillet
 
 Klik på figurerne før tiden løber ud.
 
 ---
 
-## 05 - Pong
-
-Lær om:
-
-- retninger
-- refleksioner
-- simpel fysik
-
-Byg dit eget Pong-spil.
-
----
-
-## 06 - Flappy Bird
-
-Lær om:
-
-- tyngdekraft
-- kloner
-- forhindringer
-
-Hjælp fuglen gennem banen.
-
----
-
-## 07 - Platformspil
-
-Lær om:
-
-- hop
-- platforme
-- mønter
-- fjender
-
-Byg et klassisk platformspil.
-
----
-
-## 08 - Space Shooter
-
-Lær om:
-
-- projektiler
-- fjender
-- kloner
-- effekter
-
-Forsvar galaksen mod rumskibe.
-
----
-
-## 09 - Tower Defense
-
-Lær om:
-
-- lister
-- AI-bevægelse
-- opgraderinger
-
-Forsvar din base mod fjender.
-
----
-
-## 10 - Sandbox
-
-Lær om:
-
-- større projekter
-- spildesign
-- kreativitet
-- genbrug af tidligere teknikker
-
-Byg dit eget spil.
-
----
-
-# Progression
+## Progression
 
 Spillene er designet til gradvist at introducere nye programmeringsbegreber.
-
-```text
-Bevægelse
-↓
-Kollision
-↓
-Variabler
-↓
-Timer
-↓
-Tilfældighed
-↓
-Baner
-↓
-Kloner
-↓
-Fysik
-↓
-Lister
-↓
-Egne spil
-```
 
 Derfor bygger hvert spil ovenpå det foregående.
 
 ---
 
-# Til børnene
+## Til børnene
 
 Du behøver ikke kunne programmere for at starte.
 
@@ -229,7 +106,7 @@ Det vigtigste er at lære noget nyt.
 
 ---
 
-# Til frivillige
+## Til frivillige
 
 Opmuntr børnene til:
 
@@ -251,7 +128,7 @@ På den måde lærer børnene at tænke som problemløsere frem for blot at føl
 
 ---
 
-# Coding Pirates
+## Coding Pirates
 
 Scratch Game Gym er udviklet som et Coding Pirates-forløb med fokus på leg, nysgerrighed og kreativ problemløsning.
 

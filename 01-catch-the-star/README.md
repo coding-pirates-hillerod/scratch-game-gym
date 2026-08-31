@@ -10,18 +10,6 @@ Men lige nu virker spillet ikke helt færdigt. Din opgave er at hjælpe med at g
 
 ---
 
-## Det lærer du
-
-I denne øvelse lærer du om:
-
-- Bevægelse
-- Koordinater
-- Variabler
-- Kollisioner
-- Tilfældige positioner
-
----
-
 ## Sådan spiller du
 
 1. Tryk på det grønne flag.
@@ -30,7 +18,9 @@ I denne øvelse lærer du om:
 
 ---
 
-# Opgave 1 - Lav "Score" variabel
+## Opgaver
+
+### Opgave 1 - Lav "Score" variabel
 
 Lige nu sker der ikke noget, når katten rammer stjernen.
 
@@ -40,7 +30,7 @@ Lav en variabel til scenen med navnet:
 Score
 ```
 
-## Hint
+#### Hint
 
 1. Tryk på det lilla felt med ordet "Stage" ud til højre af skærmen
 2. Lav en variabel kaldet "Score" ved at:
@@ -49,7 +39,7 @@ Score
 
 ---
 
-# Opgave 2 - Sæt "Score" til nul (0)
+### Opgave 2 - Sæt "Score" til nul (0)
 
 Når man starter spillet - dvs. når man trykker på det grønne flag - så:
 
@@ -57,7 +47,7 @@ Når man starter spillet - dvs. når man trykker på det grønne flag - så:
 Sæt "Score" til 0
 ```
 
-# Opgave 3 - Opdater "Score"
+### Opgave 3 - Opdater "Score"
 
 Når katten rører stjernen skal:
 
@@ -67,7 +57,7 @@ Score stige med 1
 
 ---
 
-# Opgave 4 - Flyt stjernen
+### Opgave 4 - Flyt stjernen
 
 Når stjernen bliver fanget, skal den: 
 
@@ -77,7 +67,7 @@ flytte sig til et nyt tilfældigt sted.
 
 ---
 
-# Opgave 5 - Afspil en lyd
+### Opgave 5 - Afspil en lyd
 
 Når katten fanger stjernen, så:
 
@@ -87,7 +77,7 @@ afspil en lyd
 
 ---
 
-## Tips
+### Tips
 
 Hvis du går i stå:
 

@@ -14,18 +14,6 @@ Kan du færdiggøre det?
 
 ---
 
-## Det lærer du
-
-I denne øvelse lærer du om:
-
-- Timere
-- Variabler
-- Tilfældighed
-- Klik på sprites
-- Pointsystemer
-
----
-
 ## Sådan spiller du
 
 1. Tryk på det grønne flag.
@@ -35,7 +23,9 @@ I denne øvelse lærer du om:
 
 ---
 
-# Opgave 1 - Lav point
+## Opgaverne
+
+### Opgave 1 - Lav point
 
 Opret en variabel:
 
@@ -57,7 +47,7 @@ Score +1
 
 ---
 
-# Opgave 2 - Flyt stjernen
+### Opgave 2 - Flyt stjernen
 
 Når stjernen bliver klikket:
 
@@ -73,7 +63,7 @@ Gå til tilfældig position
 
 ---
 
-# Opgave 3 - Lav en timer
+### Opgave 3 - Lav en timer
 
 Opret en variabel på selve scenen:
 
@@ -91,7 +81,7 @@ Tiden skal tælle ned hvert sekund.
 
 ---
 
-# Opgave 4 - Stop spillet
+### Opgave 4 - Stop spillet
 
 Når tiden bliver:
 

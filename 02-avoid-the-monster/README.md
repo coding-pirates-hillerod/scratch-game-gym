@@ -14,18 +14,6 @@ Kan du færdiggøre det?
 
 ---
 
-## Det lærer du
-
-I denne øvelse lærer du om:
-
-- Variabler
-- Liv (Lives)
-- Score
-- Kollisioner
-- Game Over
-
----
-
 ## Sådan spiller du
 
 1. Tryk på det grønne flag.
@@ -35,7 +23,9 @@ I denne øvelse lærer du om:
 
 ---
 
-# Opgave 1 - Lav liv
+## Opgaver
+
+### Opgave 1 - Lav liv
 
 Opret en variabel:
 
@@ -53,7 +43,7 @@ Vis variablen på skærmen.
 
 ---
 
-# Opgave 2 - Miste liv
+### Opgave 2 - Miste liv
 
 Når monsteret rammer katten skal:
 
@@ -64,7 +54,7 @@ Når monsteret rammer katten skal:
 
 ---
 
-# Opgave 3 - Game Over
+### Opgave 3 - Game Over
 
 Når liv bliver 0, så skal spillet stoppes helt.
 

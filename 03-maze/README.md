@@ -14,18 +14,6 @@ Kan du finde vejen til målet?
 
 ---
 
-## Det lærer du
-
-I denne øvelse lærer du om:
-
-- Baner
-- Farvekollision
-- Startområder
-- Målområder
-- Game Design
-
----
-
 ## Sådan spiller du
 
 1. Tryk på det grønne flag.
@@ -35,7 +23,9 @@ I denne øvelse lærer du om:
 
 ---
 
-# Opgave 1 - Rammer du væggen?
+## Opgaverne
+
+### Opgave 1 - Rammer du væggen?
 
 Lige nu kan katten gå direkte gennem væggene.
 
@@ -51,7 +41,7 @@ Rører farven?
 
 ---
 
-# Opgave 2 - Tæl antal forsøg
+### Opgave 2 - Tæl antal forsøg
 
 Opret en variabel:
 
@@ -73,7 +63,7 @@ Forsøg + 1
 
 ---
 
-# Opgave 3 - Lav et målområde
+### Opgave 3 - Lav et målområde
 
 Der er nogle dejlige "Cheesy Puffs" for enden af labyrinten.
 
