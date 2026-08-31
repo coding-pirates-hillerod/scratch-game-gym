@@ -30,15 +30,34 @@ I denne øvelse lærer du om:
 
 ---
 
-# Opgave 1 - Tæl point
+# Opgave 1 - Lav "Score" variabel
 
 Lige nu sker der ikke noget, når katten rammer stjernen.
 
-Lav en variabel med navnet:
+Lav en variabel til scenen med navnet:
 
 ```text
 Score
 ```
+
+## Hint
+
+1. Tryk på det lilla felt med ordet "Stage" ud til højre af skærmen
+2. Lav en variabel kaldet "Score" ved at:
+   1. Trykke på "Variables" ude til venstre på skærmen
+   2. Trykke på "Make a Variable" og kald den "Score"
+
+---
+
+# Opgave 2 - Sæt "Score" til nul (0)
+
+Når man starter spillet - dvs. når man trykker på det grønne flag - så:
+
+```text
+Sæt "Score" til 0
+```
+
+# Opgave 3 - Opdater "Score"
 
 Når katten rører stjernen skal:
 
@@ -48,81 +67,23 @@ Score stige med 1
 
 ---
 
-# Opgave 2 - Flyt stjernen
+# Opgave 4 - Flyt stjernen
 
-Når stjernen bliver fanget, skal den flytte sig til et nyt tilfældigt sted.
-
-Prøv at finde blokken:
+Når stjernen bliver fanget, skal den: 
 
 ```text
-gå til tilfældig position
-```
-
-eller brug:
-
-```text
-gå til x: ...
-y: ...
-```
-
-med tilfældige tal.
-
----
-
-# Opgave 3 - Afspil en lyd
-
-Når katten fanger stjernen:
-
-- Afspil en lyd
-- Flyt stjernen
-
-Spillet skal føles mere levende.
-
----
-
-# Opgave 4 - Vis en besked
-
-Når spilleren har fået 10 point:
-
-Vis beskeden:
-
-```text
-Du vandt!
-```
-
-i 3 sekunder.
-
----
-
-# Bonus 1 🚀
-
-Lav en guldstjerne.
-
-Når katten rammer den:
-
-```text
-+5 point
+flytte sig til et nyt tilfældigt sted.
 ```
 
 ---
 
-# Bonus 2 🚀
+# Opgave 5 - Afspil en lyd
 
-Lad stjernen glide rundt af sig selv.
+Når katten fanger stjernen, så:
 
-Måske:
-
-- langsomt
-- hurtigt
-- tilfældigt
-
----
-
-# Bonus 3 🚀
-
-Lav en timer.
-
-Hvor mange stjerner kan du samle på 30 sekunder?
+```text
+afspil en lyd
+```
 
 ---
 
